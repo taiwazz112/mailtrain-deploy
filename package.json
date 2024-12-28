@@ -1,0 +1,12 @@
+{
+  "name": "mailtrain",
+  "version": "2.0.0",
+  "description": "Self hosted email newsletter app",
+  "scripts": {
+    "start": "cd server && npm install && npm start",
+    "build": "cd client && npm install && npm run build"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
